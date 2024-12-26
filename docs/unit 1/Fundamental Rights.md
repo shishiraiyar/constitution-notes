@@ -542,4 +542,60 @@ Restrictions:
 
 - Can't deny admission into educational instutions on the basis of religion, race, caste etc
 
-- 
+- Not applicable for reservation
+
+
+
+## Article 30
+
+- Minority protection
+
+- They can build schools
+
+
+
+## Article 32: Right to constitutional remedies
+
+- Five types of writ petitions
+
+
+
+**1. Habeas Corpus**
+
+- You have the body
+
+- Unlawful detention bad
+
+- Wrongfully imprisoned or conditions bad
+
+- Can't be suspended even during emergency
+
+
+
+**2. Quo Warranto**
+
+- By what means
+
+- Restrain persons from acting in public offices to which they are not entitled to
+
+
+
+**3. Mandamus**
+
+- We command
+
+- Upper court to lower court or govt officer
+
+- Command to do something or refrain from doing something
+
+
+
+**4. Certiorari**
+
+- To be certified
+
+- Higher court can review decision of lower court
+
+**5. Prohibition**
+
+- Higher court telling lower court "Stop doing whatever you're doing. It's beyond your jurisdiction"
