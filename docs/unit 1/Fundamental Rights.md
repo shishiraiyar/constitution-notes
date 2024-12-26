@@ -268,8 +268,6 @@ Case Study: OK Ghosh vs EX Joseph
 
 ### Freedom to practise any profession, occupation trade or business
 
-
-
 ## Article 20: Protection in respect of conviction for offences
 
 ### Article 20(1)
@@ -280,13 +278,9 @@ No retrospective applicability of criminal laws
 
 Kedarnath vs State of West Bengal
 
-
-
 Exception: Rattan Lal vs State of Punjab
 
 Can be applied to reduce punishment
-
-
 
 ### Article 20(2)
 
@@ -296,13 +290,9 @@ Can't be punished for the same offence twice
 
 But if acquitted it does not apply
 
-
-
 Case study: Venkataraman vs Union of India
 
 Only applicable to judicial punishments
-
-
 
 ### Article 20(3)
 
@@ -312,17 +302,11 @@ Only applicable to personal knowledge
 
 If the person voluntarily gives away information it is not applicable
 
-
-
-
-
 ## Article 21: Protection of Life and Personal Liberty
 
 **No person shall be deprived of life or personal liberty except according to law**
 
 Right to life is the most fundamental of all rights
-
-
 
 **Right to live with human dignity**
 
@@ -330,13 +314,9 @@ Case study: **Maneka Gandhi vs Union of India**
 
 - Includes right to live with dignity
 
-
-
 **Peoples union for Democratic rights vs Union of India**
 
 - Non payment of minimum wage in Asiad projects is against article 21
-
-
 
 **Right against sexual harassment at workplace**
 
@@ -348,8 +328,6 @@ Case study: **Maneka Gandhi vs Union of India**
 
 - Both private and public employers should prevent this
 
-
-
 **Sodan Singh vs New Delhi**
 
 - Right to work is not right to life
@@ -358,31 +336,21 @@ Case study: **Maneka Gandhi vs Union of India**
 
 - They're allowed to do their business but not wherever they want
 
-
-
 **Right to social security and protection of family**
 
 blah blah
-
-
 
 **NHRC vs State of Arunachal Pradesh**
 
 - Life and liberty applies to non citizens as well
 
-
-
 **Right to Health and Medical care**
-
-
 
 **No right to die**
 
 - Because if suicide is not illegal, how can abetment to suicide be illegal
 
 - Right to life is natural but suicide is unnatural therefore not compatible with right to life
-
-
 
 **Euthanasia**
 
@@ -392,15 +360,11 @@ GianKaur vs State of Punjab
 
 - Not suicide
 
-
-
 **Death Sentence**
 
 Jagmohan vs State of UP
 
 - Supreme court: Death penalty doesn't violate Articles 14, 19 and 21
-
-
 
 **Right to Pollution free water and air**
 
@@ -408,19 +372,13 @@ MC Mehta vs Union of India: Close polluting tanneries
 
 MC Mehta vs Union of India: Protection of Taj Mahal
 
-
-
 **Right against noise pollution**
 
 - Diwali crackers bad
 
-
-
 **Right to know**
 
 - People have to know what the govt is doing
-
-
 
 **Right to privacy**
 
@@ -432,15 +390,11 @@ MC Mehta vs Union of India: Protection of Taj Mahal
 
 Mr X vs Hospital Z: Doctor can tell the lady that the dude is HIV positive. Doesn't violate right to privacy
 
-
-
 **Right to travel abroad**
 
 - Maneka Gandhi vs Union of India
 
 - Passport freezing
-
-
 
 **Right against Illegal Detention**
 
@@ -450,19 +404,13 @@ Mr X vs Hospital Z: Doctor can tell the lady that the dude is HIV positive. Does
 
 - Police shall inform the arrested person of this right
 
-
-
 **Prisoner's rights**
-
-
 
 **Right to speedy trial**
 
 **Right to fair trial**
 
 **Right against solitary confinement**
-
-
 
 ## Article 22: Arbitrary arrest and detention
 
@@ -477,8 +425,6 @@ Mr X vs Hospital Z: Doctor can tell the lady that the dude is HIV positive. Does
 - Exceptions: Enemy alien
 
 - Preventive detention
-
-
 
 ## Article 23 and 24: Right against exploitation
 
@@ -504,8 +450,6 @@ MC Mehta vs State of Tamil nadu:
 
 - Children in Sivakasi Cracker factory
 
-
-
 ## Article 25 to 28: Right to religion
 
 Article 25: Free profession, practice and propagation of religion
@@ -516,23 +460,17 @@ Article 27: Payment of taxes for promotion of any particular religion
 
 Article 28: Freedom for religious instruction in educational institutions
 
-
-
 Case studies:
 
 - National anthem emmanuel dude
 
 - N Aditya vs Travancore Devasom Board: Non brahmins as Pujari
 
-
-
 Restrictions:
 
 - Noise pollution bad
 
 - 10pm to 6am
-
-
 
 ## Article 29 and 30: Cultural and educational rights
 
@@ -544,21 +482,15 @@ Restrictions:
 
 - Not applicable for reservation
 
-
-
 ## Article 30
 
 - Minority protection
 
 - They can build schools
 
-
-
 ## Article 32: Right to constitutional remedies
 
 - Five types of writ petitions
-
-
 
 **1. Habeas Corpus**
 
@@ -570,15 +502,11 @@ Restrictions:
 
 - Can't be suspended even during emergency
 
-
-
 **2. Quo Warranto**
 
 - By what means
 
 - Restrain persons from acting in public offices to which they are not entitled to
-
-
 
 **3. Mandamus**
 
@@ -587,8 +515,6 @@ Restrictions:
 - Upper court to lower court or govt officer
 
 - Command to do something or refrain from doing something
-
-
 
 **4. Certiorari**
 
