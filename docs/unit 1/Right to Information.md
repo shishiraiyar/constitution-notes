@@ -6,8 +6,6 @@
 
 - Enforceable against public authorities
 
-
-
 **Public Information Officers**
 
 - Enforce RTI
@@ -15,8 +13,6 @@
 - Every public authority is required to appoint PIO
 
 - Provide requested information
-
-
 
 **Exceptions**:
 
@@ -48,12 +44,8 @@ Complaints against PIO
 
 **Second appeal**: Information commission within 90 days
 
-
-
 **Burden of Proof**: PIO should justify why info wasn't given
 
 **Penalty**:
 
 - 250 to 25k on PIO
-
-
