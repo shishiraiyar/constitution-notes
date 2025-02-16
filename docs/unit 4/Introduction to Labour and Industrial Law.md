@@ -532,3 +532,270 @@ Employees must:
 - Workers retain rights to **more favorable benefits** under previous agreements.
 
 ---
+
+## Code on Wages, 2019
+
+The Code on Wages, 2019, consolidates and amends four key labor laws related to wages, bonus, and remuneration. It aims to simplify and harmonize the labor law framework in India, ensuring uniform compliance and better protection for workers in both organized and unorganized sectors.  
+
+### Key Objectives
+
+- **Simplify labor laws**: Consolidate multiple wage-related laws into a single code.  
+- **Ensure timely payment of wages**: Standardize wage payment timelines across sectors.  
+- **Promote gender equality**: Prohibit gender-based discrimination in wages and recruitment.  
+- **Expand coverage**: Extend minimum wage and bonus provisions to more workers.  
+
+### Laws Subsumed
+
+The Code replaces the following four laws:  
+
+1. **Payment of Wages Act, 1936**.  
+2. **Minimum Wages Act, 1948**.  
+3. **Payment of Bonus Act, 1965**.  
+4. **Equal Remuneration Act, 1976**.  
+
+### Key Changes
+
+#### Gender-Neutral Approach
+
+- **Extant Framework**: The Equal Remuneration Act, 1976, mandates equal pay for men and women performing the **same or similar work**.  
+- **Prospective Framework**:  
+     - The Code adopts a **gender-neutral approach**, prohibiting discrimination in wages and recruitment based on gender.  
+     - Employers must consider **work experience, skills, effort, and responsibility** when determining wages for similar work.  
+
+#### Fixed Rate for Overtime Wages
+
+- **Extant Framework**: Overtime wages vary across states, with most prescribing **twice the normal wage rate**.  
+- **Prospective Framework**:  
+     - The Code standardizes overtime wages at **twice the normal wage rate** for all workers.  
+     - Ensures uniformity across industries and states.  
+
+#### Consolidated Definition of Wages
+
+- **Extant Framework**: Different laws define wages differently (e.g., basic pay, allowances, bonuses).  
+- **Prospective Framework**:  
+     - **Wages** include:  
+          - Basic pay.  
+          - Dearness allowance.  
+          - Retaining allowance.  
+     - **Exclusions**:  
+          - Bonus, PF contributions, HRA, conveyance allowance, medical benefits, etc.  
+     - **Cap on Exclusions**: Excluded components cannot exceed **50% of total remuneration** (or a percentage notified by the government).  
+     - **Remuneration in Kind**: Up to **15% of total wages** can be paid in kind (e.g., food, accommodation).  
+
+#### Expanded Coverage of Minimum Wages
+
+- **Extant Framework**: Minimum wages apply only to **scheduled employments** (e.g., unskilled, clerical work).  
+- **Prospective Framework**:  
+     - Minimum wages now cover **all employments**, including supervisory, managerial, administrative, and technical roles.  
+     - No reference to **scheduled employments**, ensuring broader applicability.  
+
+#### Expanded Coverage of Wage Payment
+
+- **Extant Framework**: The Payment of Wages Act applies to employees earning up to **₹24,000/month** and specific sectors (e.g., factories, mines).  
+- **Prospective Framework**:  
+     - Applies to **all employees** across sectors (except central/state government employees).  
+     - **No wage ceiling** for applicability.  
+
+#### Distinction Between Employee and Worker
+
+- **Extant Framework**: Terms like "employee" and "worker" are used interchangeably.  
+- **Prospective Framework**:  
+     - **Employee**: Any person (except apprentices) employed in an establishment for skilled, unskilled, clerical, supervisory, managerial, or technical work.  
+     - **Worker**: A person employed in manual, unskilled, skilled, technical, or supervisory work, excluding:  
+          - Apprentices.  
+          - Managerial/administrative staff.  
+          - Supervisors earning over **₹15,000/month**.  
+
+#### Standardized Wage Payment Timelines
+
+- **Extant Framework**: Wage payment timelines vary by sector (e.g., factories, shops).  
+- **Prospective Framework**:  
+     - **Daily Wages**: Paid at the end of the shift.  
+     - **Weekly Wages**: Paid before the weekly holiday.  
+     - **Fortnightly Wages**: Paid within 2 days after the fortnight ends.  
+     - **Monthly Wages**: Paid by the **7th day of the next month**.  
+     - **Termination/Resignation**: Wages must be paid within **2 working days**.  
+
+#### Disqualification for Bonus
+
+- **Extant Framework**: Employees are disqualified for bonus if terminated for:  
+     - Fraud.  
+     - Riotous/violent behavior.  
+     - Theft or sabotage.  
+- **Prospective Framework**:  
+     - Adds **conviction for sexual harassment** as a ground for disqualification.  
+
+#### Inspector-Cum-Facilitator
+
+- **Extant Framework**: Inspectors enforce compliance and penalize violations.  
+- **Prospective Framework**:  
+     - **Inspector-Cum-Facilitator**:  
+          - Acts as both an enforcer and advisor.  
+          - Provides guidance to employers and workers on compliance.  
+          - Conducts **web-based inspections** and allows employers to rectify violations before prosecution.  
+     - **Repeated Offences**: No rectification opportunity for violations within **5 years** of the first offence.  
+
+### Offences and Penalties
+
+#### Monetary Penalties
+
+- **First-Time Offences**:  
+     - **Underpayment of Wages**: Fine up to **₹50,000**.  
+     - **Non-Maintenance of Records**: Fine up to **₹10,000**.  
+     - **Contravention of Provisions**: Fine up to **₹20,000**.  
+- **Repeat Offences**:  
+     - **Underpayment of Wages**: Imprisonment up to **3 months** + fine up to **₹1,00,000**.  
+     - **Contravention of Provisions**: Imprisonment up to **1 month** + fine up to **₹40,000**.  
+
+#### Compounding of Offences
+
+- **First-Time Offenders**: Can compound offences by paying up to **50% of the maximum fine**.  
+- **Repeat Offenders**: No compounding option for violations within **5 years** of the first offence.  
+
+---
+
+
+
+## **Industrial Disputes Act, 1947**
+
+### **Key Definitions**
+
+1. **Industrial Dispute (Section 2(k))**:
+      - A dispute between **employers and employees** (or among employees) related to:
+           - Employment/non-employment.
+           - Terms/conditions of employment.
+2. **Industry (Section 2(j))**:
+      - Includes any systematic activity involving **employer-employee cooperation** for producing goods/services (e.g., trade, business, manufacturing).
+      - **Case Law**:  
+           - *Bangalore Water Supply v. R. Rajappa*: Defined "industry" using a **three-pronged test**:
+                1. Systematic and organized activity.
+                2. Employer-employee cooperation.
+                3. Production of goods/services (profit motive irrelevant).
+           - *Dominant Nature Test*: For enterprises with mixed activities, the "core activity" determines industrial status.
+
+
+
+### **Applicability**
+
+- Applies to disputes in establishments classified as **"industries"** under the Act.
+- **Exclusions**: Disputes outside this definition must use courts or alternative mechanisms.
+
+
+
+### **Dispute Redressal Mechanisms**
+
+#### **Internal Mechanisms**
+
+1. **Works Committee (Section 3)**:
+      - **Mandatory** in establishments with **100+ workers**.
+      - Composition: Equal representatives from employers and employees.
+      - Purpose: Resolve disputes internally to avoid litigation.
+2. **Grievance Redressal Committee (Section 9C)**:
+      - **Mandatory** in establishments with **20+ workers**.
+      - Composition: Equal management and worker members (max 6), including at least **1 female member**.
+      - Process: Resolves written complaints within **45 days**; appeals disposed of within **1 month**.
+
+#### **External Mechanisms**
+
+1. **Conciliation Officers (Section 4)**:
+      - Government-appointed to mediate disputes.
+      - Submit report within **14 days**; government decides further action.
+2. **Board of Conciliation (Section 5)**:
+      - Impartial body (chairman + 2–4 members) to facilitate settlements.
+      - Submits report within **2 months**; unresolved disputes go to tribunals.
+3. **Court of Enquiry (Section 6)**:
+      - Investigates disputes of public interest; submits findings to the government.
+4. **Labour Courts (Section 7)**:
+      - Jurisdiction: Matters under the **Second Schedule** (e.g., wages, discharge disputes).
+      - Presided by a judicial officer (ex-High Court/District Judge with ≥7 years’ experience).
+5. **Industrial Tribunals (Section 7A)**:
+      - Quasi-judicial body for disputes under **Second/Third Schedules** (e.g., bonus, retrenchment).
+      - Government-constituted; issues legally binding awards.
+6. **National Tribunal (Section 7B)**:
+      - Resolves **national-level disputes** (e.g., multi-state impact).
+      - Presided by a judge equivalent to a High Court Judge.
+
+
+
+### **Types of Disputes**
+
+1. **Interest Disputes**:
+      - Relate to **new terms** (e.g., wage revisions, working conditions).
+2. **Rights Disputes**:
+      - Concern **existing rights** (e.g., contract interpretation, wrongful termination).
+
+
+
+### **Key Processes**
+
+- **Conciliation**: Voluntary mediation; failure leads to adjudication.
+- **Adjudication**: Binding decisions by Labour Courts/Tribunals.
+- **Awards**: Legally enforceable decisions issued by tribunals; enforceable for **1 year**.
+
+---
+
+
+
+
+
+## The Factories Act, 1948
+
+
+
+### Objectives of the Factories Act, 1948
+
+- **Protect workers' health and safety**: Ensure safe working conditions and prevent accidents.
+- **Regulate working hours**: Limit work hours to prevent overwork and exhaustion.
+- **Ensure fair wages**: Mandate payment of minimum wages to workers.
+- **Promote welfare**: Provide facilities like clean water, sanitation, and first aid.
+- **Reduce industrial tensions**: Create a harmonious work environment.
+
+### Key Provisions of the Factories Act, 1948
+
+#### Working Hours and Overtime
+
+- **Maximum working hours**: 48 hours per week and 9 hours per day.
+- **Overtime**: Overtime work should not exceed 9 hours in a day.
+- **Weekly holiday**: Workers are entitled to one day off per week.
+
+#### Minimum Wages
+
+- Employers must pay workers at least the prescribed minimum wage.
+- Failure to pay minimum wages can lead to legal consequences.
+
+#### Health and Safety Measures
+
+- **Sanitary facilities**: Factories must provide clean toilets and drinking water.
+- **First aid**: Factories must have first aid boxes and records.
+- **Medical facilities**: Arrangements must be made for transporting injured workers to hospitals.
+
+#### Child Labour and Welfare
+
+- **Child Labour Committee**: Factories employing more than 20 workers must have a committee to regulate employment of workers aged 14-18.
+- **Welfare funds**: State governments can set up welfare funds for workers.
+
+#### Administrative Measures
+
+- **Conciliation Officer**: Appointed by the government to resolve disputes between employers and workers.
+- **Labour Officers**: Government officials ensure compliance with the Act.
+- **Welfare funds**: Established for the benefit of workers.
+
+### Recent Amendments and Labour Codes
+
+The Factories Act, 1948, has been amended several times to adapt to changing industrial scenarios. Recently, the Indian government consolidated various labour laws into four Labour Codes:
+
+- **Code on Wages, 2019**
+- **Industrial Relations Code, 2020**
+- **Occupational Safety, Health, and Working Conditions Code, 2020**
+- **Code on Social Security, 2020**
+
+These codes aim to simplify and modernize labour laws, but their implementation is still pending.
+
+### Analysis of Labour Codes
+
+- **Consolidation**: The Labour Codes consolidate 29 existing labour laws into four codes.
+- **Challenges**: Many provisions from older laws have been replicated without significant improvements.
+- **Unorganized Sector**: The codes fail to adequately address the needs of workers in the unorganized sector.
+- **IT Sector**: The applicability of labour laws to the IT sector remains ambiguous, leaving IT employees vulnerable to issues like mass layoffs (pink slips).
+
+---
