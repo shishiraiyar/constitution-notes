@@ -740,8 +740,6 @@ The Code replaces the following four laws:
 
 ## The Factories Act, 1948
 
-
-
 ### Objectives of the Factories Act, 1948
 
 - **Protect workers' health and safety**: Ensure safe working conditions and prevent accidents.
